@@ -1,12 +1,54 @@
-# Andrey Amelchenia #
-### *e-mail*:pmad@tut.by ###
-- Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-- Skills: Html, css, php, mysql.
-- Code examples (LATEST)
-- Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-- Education: BSUIR (engineer on radio electronics)
-- English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+# Andrey Amelchenia's CV
+
+## 1. My Name
+
+* __Name:__ Andrey Amelchenia
+
+## 2. Contact Info
+
+* Tel: **+375(44)757-90-60**
+* Email: **pmad1986@gmail.com**
+* Discord: **AndreyAmelchenia#7475**
+* GitHub: **[github.com/AndreyAmelchenia](https://github.com/AndreyAmelchenia)**
+
+## 3. Little about me
+
+I am fond of programming since 2018. I started learning with MySql and PHP. I studied them myself. Recently I tried the courses of RS School. I really liked to study everything new, I started with Js after I was React. Now Node Js. I am not going to stop there. Now I want to develop in this direction constantly.
+
+## 4. Experience and education
+
+Graduated **BSUIR Minsk (БГУИР) - Faculty of Computer Design -**
+*2004 – 2009*
+
+## 5. Self-education:
+
+* Completed [RS School JS:](https://app.rs.school/certificate/pidqkovj) RS 2020 Q1
+
+* Completed [RS School React:](https://app.rs.school/certificate/od71lmxa) RSS React 2020 Q3
+
+## 6.  Code examples
+
+### React
+* [React SongBird](https://github.com/AndreyAmelchenia/songbird/pull/1)
+* [React RSlang](https://rslang-team58-khvalkoilya.netlify.app/)
+
+### Js
+* [english-for-kids](https://app.netlify.com/sites/andreyamelchenia-english-for-kids/overview)
+
+## 7. Skills
+* Figma
+* Visual Studio Code
+* HTML
+* CSS, SASS(SCSS)
+* BEM
+* JS(ES5, ES6)
+* Webpack
+* Git
+* React
+* Redux
+* Router
+* ToolKit
+* Node Js
+
+## 8. English level
+Level: A1
