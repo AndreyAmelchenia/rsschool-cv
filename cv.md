@@ -26,6 +26,8 @@ Graduated **BSUIR Minsk (БГУИР) - Faculty of Computer Design -**
 
 * Completed [RS School React:](https://app.rs.school/certificate/od71lmxa) RSS React 2020 Q3
 
+* Completed [RS School Node Js:](https://app.rs.school/certificate/t3aroeeu) NodeJS 2020 Q3
+
 ## 6.  Code examples
 
 ### React
