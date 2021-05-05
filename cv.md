@@ -6,7 +6,7 @@
 
 ## 2. Contact Info
 
-* Tel: **+375(44)757-90-60**
+* Tel: **+375(44)757-90-69**
 * Email: **pmad1986@gmail.com**
 * Discord: **AndreyAmelchenia#7475**
 * GitHub: **[github.com/AndreyAmelchenia](https://github.com/AndreyAmelchenia)**
@@ -53,4 +53,4 @@ Graduated **BSUIR Minsk (БГУИР) - Faculty of Computer Design -**
 * Node Js
 
 ## 8. English level
-Level: A1
+Level: A2
