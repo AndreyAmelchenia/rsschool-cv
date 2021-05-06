@@ -28,6 +28,8 @@ Graduated **BSUIR Minsk (БГУИР) - Faculty of Computer Design -**
 
 * Completed [RS School Node Js:](https://app.rs.school/certificate/t3aroeeu) NodeJS 2020 Q3
 
+* Completed [RS School Angular:](https://app.rs.school/certificate/7tnwisj1) Angular 2021Q1
+
 ## 6.  Code examples
 
 ### React
@@ -36,6 +38,9 @@ Graduated **BSUIR Minsk (БГУИР) - Faculty of Computer Design -**
 
 ### Js
 * [english-for-kids](https://app.netlify.com/sites/andreyamelchenia-english-for-kids/overview)
+
+### Angular
+* [Angular RSlang](https://github.com/AndreyAmelchenia/rslang/pull/94/)
 
 ## 7. Skills
 * Figma
@@ -47,6 +52,7 @@ Graduated **BSUIR Minsk (БГУИР) - Faculty of Computer Design -**
 * Webpack
 * Git
 * React
+* Angular
 * Redux
 * Router
 * ToolKit
